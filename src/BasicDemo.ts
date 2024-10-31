@@ -2,6 +2,7 @@
 //node demo1.js -- to compile js and execute it
 //tsc --init -- to generate typescript config file
 //tsc -- to generate js according to ts config
+//tsc --watch -- to watch typescript changes, compiler is running in watch mode
 
 //Declaration by specifying type of variables
 let a: number = 2;
