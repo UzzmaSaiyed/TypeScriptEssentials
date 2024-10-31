@@ -124,27 +124,3 @@ function createArray<T>(items: T[]): void {
 
 createArray<string>(["Apple", "Banana", "Cherry"]);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
